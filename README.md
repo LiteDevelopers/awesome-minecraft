@@ -52,6 +52,7 @@ _Libraries that aid in the creation of Minecraft commands._
 _Libraries that make it easier to work with configuration files._
 
 - [Configurate](https://github.com/SpongePowered/Configurate/) - A simple configuration library for Java applications providing a node structure, a variety of formats, and tools for transformation.
+- [okaeri-configs](https://github.com/OkaeriPoland/okaeri-configs) - Simple Java/POJO config library written with love and Lombok (with support for Bukkit BungeeCord and Velocity)
 
 ## Inventories
 _Libraries for creating Minecraft GUIs using inventories._
