@@ -1,7 +1,7 @@
-# Awesome Minecraft [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# 😎 Awesome Minecraft [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A curated list of awesome frameworks, libraries and software relating to Minecraft. All software listed must be open sourced
-and available for free.
+and available for free. ⭐
 
 Feel free to suggest more projects. Only suggest projects you'd recommend to a friend that you don't dislike.
 
