@@ -67,6 +67,7 @@ _Libraries for creating Minecraft GUIs using inventories._
 - [InventoryGui](https://github.com/Phoenix616/InventoryGui) - A library for Bukkit plugins to create GUIs with inventories.
 - [Canvas](https://github.com/IPVP-MC/canvas) - Canvas is a java library built for Bukkit to manage custom inventory based menus.
 - [triumph-gui](https://github.com/TriumphTeam/triumph-gui) - Simple lib to create inventory GUIs for Bukkit platforms.
+- [AnvilGUI](https://github.com/WesJD/AnvilGUI) - Capture user input in Minecraft through an anvil GUI in under 20 lines of code
 
 ## Messages
 _Libraries that make it easier to work with messages, text, etc._
