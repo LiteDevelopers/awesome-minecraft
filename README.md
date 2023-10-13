@@ -1,3 +1,5 @@
+<div align="center"><img src="https://github.com/LiteDevelopers/awesome-minecraft/assets/49173834/f9d8ecfd-b45d-4173-8092-68813ac0c26d" alt="awesome minecraft" width="70%"></div>
+
 # 😎 Awesome Minecraft [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A curated list of awesome frameworks, libraries and software relating to Minecraft. All software listed must be open sourced
