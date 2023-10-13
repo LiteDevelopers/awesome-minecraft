@@ -56,6 +56,7 @@ _Libraries that aid in the creation of Minecraft commands._
 _Libraries that make it easier to work with configuration files._
 
 - [Configurate](https://github.com/SpongePowered/Configurate/) - A simple configuration library for Java applications providing a node structure, a variety of formats, and tools for transformation.
+- [cdn](https://github.com/dzikoysk/cdn) - Simple and fast configuration library for JVM based apps, powered by CDN (Configuration Data Notation) format, based on enhanced JSON for Humans standard.
 - [okaeri-configs](https://github.com/OkaeriPoland/okaeri-configs) - Simple Java/POJO config library written with love and Lombok (with support for Bukkit BungeeCord and Velocity)
 
 ## Inventories
@@ -80,6 +81,7 @@ _Libraries for interacting with the minecraft protocol._
 - [MCProtocolLib](https://github.com/Steveice10/MCProtocolLib) - MCProtocolLib is a simple library for communicating with a Minecraft client/server. It aims to allow people to make custom bots, clients, or servers for Minecraft easily.
 - [PacketWrapper](https://github.com/dmulloy2/PacketWrapper) - Packet wrapper classes for ProtocolLib.
 - [ProtocolLib](https://github.com/dmulloy2/ProtocolLib/) - Provides read and write access to the Minecraft protocol with Bukkit.
+- [Protocolize](https://github.com/Exceptionflug/protocolize) - A lightweight BungeeCord / Velocity protocol framework supporting items.
 
 ## Utilities
 _Utilities that don't particularly belong in any other category._
@@ -94,6 +96,8 @@ _Utilities that don't particularly belong in any other category._
 - [SchematicWebViewer](https://github.com/EngineHub/SchematicWebViewer/) - Renders Minecraft schematics into a web canvas.
 - [SquirrelID](https://github.com/EngineHub/SquirrelID/) - Library for working with Mojang profiles
 - [Vault](https://github.com/MilkBowl/Vault) - Vault of common APIs for Bukkit Plugins.
+- [ProtocolSidebar](https://github.com/CatCoderr/ProtocolSidebar) - Powerful feature-packed Minecraft scoreboard library.
+- [HologramLib](https://github.com/unldenis/Hologram-Lib) - Asynchronous, high-performance Minecraft Hologram library for 1.8-1.20.1 servers.
 
 # Mods
 
@@ -121,6 +125,7 @@ _Mods meant to increase game performance._
 
 ## Anti-Cheating
 
+- [GrimAC](https://github.com/MWHunter/Grim) - GrimAC is an open source Minecraft anticheat designed for 1.20 and supports 1.8-1.20.
 - [NoCheatPlus](https://github.com/Updated-NoCheatPlus/NoCheatPlus) - NoCheatPlus attempts to enforce "vanilla Minecraft" mechanics, as well as preventing players from abusing weaknesses in Minecraft or its protocol, making your server more safe.
 
 ## Building
@@ -160,6 +165,10 @@ _Plugins that don't particularly fit in with any existing category._
 
 ### Velocity
 
+- [LimboHub](https://github.com/Elytrium/LimboHub) - Get a virtual hub directly on Velocity proxy.
+- [LimboAuth](https://github.com/Elytrium/LimboAuth) - Minecraft Auth System for Velocity proxy built in virtual server (Limbo).
+- [FastMOTD](https://github.com/Elytrium/FastMOTD) - A MOTD plugin for Velocity that caches network packets.
+- [LimboFilter](https://github.com/Elytrium/LimboFilter) - Most powerful bot filtering solution for Minecraft proxies.
 - [Catalyst](https://github.com/AnvilPowered/Catalyst) - An essentials plugin for Minecraft proxies that will provide your server with a strong baseline; giving you all the useful commands you need.
 
 ## Permissions
@@ -220,6 +229,9 @@ _Minecraft server software._
 - [Nukkit](https://github.com/CloudburstMC/Nukkit) - Server software for Minecraft: Bedrock Edition.
 - [Paper](https://github.com/papermc/paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.
 - [Sponge](https://github.com/SpongePowered/Sponge) - A community-driven open source Minecraft: Java Edition modding platform.
+- [MultiPaper](https://github.com/MultiPaper/MultiPaper) - Multi-server, single-world papermc implementation.
+- [Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
+- [Cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft.
 
 ## Tools
 _Miscellaneous tools._
