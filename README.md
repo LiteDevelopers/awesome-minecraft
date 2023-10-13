@@ -227,6 +227,7 @@ _Minecraft server proxy software._
 _Minecraft server software._
 
 - [Nukkit](https://github.com/CloudburstMC/Nukkit) - Server software for Minecraft: Bedrock Edition.
+- [Minestom](https://github.com/Minestom/Minestom) - Minestom is an open-source library that enables developers to create their own Minecraft server software, without any code from Mojang.
 - [Paper](https://github.com/papermc/paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.
 - [Sponge](https://github.com/SpongePowered/Sponge) - A community-driven open source Minecraft: Java Edition modding platform.
 - [MultiPaper](https://github.com/MultiPaper/MultiPaper) - Multi-server, single-world papermc implementation.
