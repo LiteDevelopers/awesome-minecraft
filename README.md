@@ -210,7 +210,7 @@ _Resources for Minecraft performance tuning._
 
 - [Aikar's Flags](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/) - G1GC Garbage Collector Flags for Minecraft.
 - [Krusic22's Flags](https://krusic22.com/2020/03/25/higher-performance-crafting-using-jdk11-and-zgc/) - Optimized JDK11+ & ZGC flags for Minecraft servers.
-- [StartMC](https://startmc.sh/) - Aikars flags script generator.
+- [flags.sh](https://flags.sh/) - A simple script generator to start your Minecraft servers with optimal flags.
 
 ## Protocol
 - [wiki.vg](https://wiki.vg) - Wiki.vg has documented the whole minecraft protocol for java and bedrock edition.
