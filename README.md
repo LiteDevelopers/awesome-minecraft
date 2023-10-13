@@ -7,6 +7,8 @@ and available for free. ⭐
 
 Feel free to suggest more projects. Only suggest projects you'd recommend to a friend that you don't dislike.
 
+> Fork of [Incendo/awesome-minecraft](https://github.com/Incendo/awesome-minecraft) (the author is inactive)
+
 # Contents
 
 - [Libraries and Frameworks](#libraries-and-frameworks)
