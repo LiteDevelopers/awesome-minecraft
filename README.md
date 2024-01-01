@@ -100,6 +100,7 @@ _Utilities that don't particularly belong in any other category._
 - [SquirrelID](https://github.com/EngineHub/SquirrelID/) - Library for working with Mojang profiles
 - [Vault](https://github.com/MilkBowl/Vault) - Vault of common APIs for Bukkit Plugins.
 - [ProtocolSidebar](https://github.com/CatCoderr/ProtocolSidebar) - Powerful feature-packed Minecraft scoreboard library.
+- [scoreboard-library](https://github.com/MegavexNetwork/scoreboard-library) - Powerful packet-level scoreboard library for Paper/Spigot servers.
 - [HologramLib](https://github.com/unldenis/Hologram-Lib) - Asynchronous, high-performance Minecraft Hologram library for 1.8-1.20.1 servers.
 
 # Mods
