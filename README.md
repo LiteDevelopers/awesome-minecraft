@@ -93,15 +93,15 @@ _Utilities that don't particularly belong in any other category._
 - [BKCommonLib](https://github.com/bergerhealer/BKCommonLib) - An extensive library used in bergerhealer's plugins.
 - [eco](https://github.com/Auxilor/eco) - A plugin framework with many APIs and utilities to simplify development.
 - [helper](https://github.com/lucko/helper) - A collection of utilities and extended APIs to support the rapid and easy development of Bukkit plugins.
+- [HologramLib](https://github.com/unldenis/Hologram-Lib) - Asynchronous, high-performance Minecraft Hologram library for 1.8-1.20.1 servers.
 - [Item-NBT-API](https://github.com/tr7zw/Item-NBT-API) - Add custom NBT tags to Items/Tiles/Entities without NMS.
 - [mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
+- [ProtocolSidebar](https://github.com/CatCoderr/ProtocolSidebar) - Powerful feature-packed Minecraft scoreboard library.
 - [SchematicJS](https://github.com/EngineHub/SchematicJS/) - JavaScript library for working with Minecraft schematics.
 - [SchematicWebViewer](https://github.com/EngineHub/SchematicWebViewer/) - Renders Minecraft schematics into a web canvas.
+- [scoreboard-library](https://github.com/MegavexNetwork/scoreboard-library) - Powerful packet-level scoreboard library for Paper/Spigot servers.
 - [SquirrelID](https://github.com/EngineHub/SquirrelID/) - Library for working with Mojang profiles
 - [Vault](https://github.com/MilkBowl/Vault) - Vault of common APIs for Bukkit Plugins.
-- [ProtocolSidebar](https://github.com/CatCoderr/ProtocolSidebar) - Powerful feature-packed Minecraft scoreboard library.
-- [scoreboard-library](https://github.com/MegavexNetwork/scoreboard-library) - Powerful packet-level scoreboard library for Paper/Spigot servers.
-- [HologramLib](https://github.com/unldenis/Hologram-Lib) - Asynchronous, high-performance Minecraft Hologram library for 1.8-1.20.1 servers.
 
 # Mods
 
