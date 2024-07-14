@@ -81,6 +81,7 @@ _Libraries that make it easier to work with messages, text, etc._
 _Libraries for interacting with the minecraft protocol._
 
 - [MCProtocolLib](https://github.com/Steveice10/MCProtocolLib) - MCProtocolLib is a simple library for communicating with a Minecraft client/server. It aims to allow people to make custom bots, clients, or servers for Minecraft easily.
+- [packetevents](https://github.com/retrooper/packetevents) - PacketEvents is a fast and efficient multi-platform packet processing library for Minecraft. Our packet wrappers are easy to use with multi-version support.
 - [PacketWrapper](https://github.com/dmulloy2/PacketWrapper) - Packet wrapper classes for ProtocolLib.
 - [ProtocolLib](https://github.com/dmulloy2/ProtocolLib/) - Provides read and write access to the Minecraft protocol with Bukkit.
 - [Protocolize](https://github.com/Exceptionflug/protocolize) - A lightweight BungeeCord / Velocity protocol framework supporting items.
