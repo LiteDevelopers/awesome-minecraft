@@ -86,16 +86,21 @@ _Libraries for interacting with the minecraft protocol._
 - [ProtocolLib](https://github.com/dmulloy2/ProtocolLib/) - Provides read and write access to the Minecraft protocol with Bukkit.
 - [Protocolize](https://github.com/Exceptionflug/protocolize) - A lightweight BungeeCord / Velocity protocol framework supporting items.
 
+## NBT & PDC
+_Libraries that make it easier to work with NBT (Named Binary Tag) and PDC (Persistent Data Container)_
+- [adventure-nbt](https://github.com/KyoriPowered/adventure/tree/master/nbt) - Library for working with NBT.
+- [Item-NBT-API](https://github.com/tr7zw/Item-NBT-API) - Add custom NBT tags to Items/Tiles/Entities without NMS.
+- [CustomBlockData](https://github.com/mfnalex/CustomBlockData) - Provides a PersistentDataContainer for every Block locatio
+- [MorePersistentDataTypes](https://github.com/mfnalex/MorePersistentDataTypes) - Adds a ton of new PersistentDataTypes, including support for all collections, maps and arrays to the Bukkit API!
+
 ## Utilities
 _Utilities that don't particularly belong in any other category._
 
-- [adventure-nbt](https://github.com/KyoriPowered/adventure/tree/master/nbt) - Library for working with NBT.
 - [Anvil](https://github.com/AnvilPowered/Anvil) - A cross-platform database API / ORM / entity framework with useful services for minecraft plugins
 - [BKCommonLib](https://github.com/bergerhealer/BKCommonLib) - An extensive library used in bergerhealer's plugins.
 - [eco](https://github.com/Auxilor/eco) - A plugin framework with many APIs and utilities to simplify development.
 - [helper](https://github.com/lucko/helper) - A collection of utilities and extended APIs to support the rapid and easy development of Bukkit plugins.
 - [HologramLib](https://github.com/unldenis/Hologram-Lib) - Asynchronous, high-performance Minecraft Hologram library for 1.8-1.20.1 servers.
-- [Item-NBT-API](https://github.com/tr7zw/Item-NBT-API) - Add custom NBT tags to Items/Tiles/Entities without NMS.
 - [mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [ProtocolSidebar](https://github.com/CatCoderr/ProtocolSidebar) - Powerful feature-packed Minecraft scoreboard library.
 - [SchematicJS](https://github.com/EngineHub/SchematicJS/) - JavaScript library for working with Minecraft schematics.
@@ -162,6 +167,7 @@ _Plugins that don't particularly fit in with any existing category._
 - [Citizens](https://github.com/CitizensDev/Citizens2) - Plugin and API for creating service side NPCs.
 - [CraftBook](https://enginehub.org/craftbook/) - Plugin that adds many new fun mechanics to the game with extreme levels of customisability.
 - [EssentialsX](https://github.com/EssentialsX/Essentials) - Plugin suite providing essential commands and features, updated for the latest Minecraft versions.
+- [EternalCore](https://github.com/EternalCodeTeam/EternalCore) - All the most important server functions in one!
 - [ProtocolSupport](https://github.com/ProtocolSupport/ProtocolSupport) - Support older Minecraft versions.
 - [ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
 
