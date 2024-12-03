@@ -225,7 +225,7 @@ _Resources for Minecraft performance tuning._
 - [flags.sh](https://flags.sh/) - A simple script generator to start your Minecraft servers with optimal flags.
 
 ## Protocol
-- [wiki.vg](https://wiki.vg) - Wiki.vg has documented the whole minecraft protocol for java and bedrock edition.
+- [wiki.vg_(minecraft.wiki)](https://minecraft.wiki/w/Minecraft_Wiki:Projects/wiki.vg_merge/Main_Page) - Wiki.vg has documented the whole minecraft protocol for java and bedrock edition. _(moved to minecraft.wiki)_
 
 # Software
 
