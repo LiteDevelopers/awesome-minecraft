@@ -90,7 +90,7 @@ _Libraries for interacting with the minecraft protocol._
 _Libraries that make it easier to work with NBT (Named Binary Tag) and PDC (Persistent Data Container)_
 - [adventure-nbt](https://github.com/KyoriPowered/adventure/tree/master/nbt) - Library for working with NBT.
 - [Item-NBT-API](https://github.com/tr7zw/Item-NBT-API) - Add custom NBT tags to Items/Tiles/Entities without NMS.
-- [CustomBlockData](https://github.com/mfnalex/CustomBlockData) - Provides a PersistentDataContainer for every Block locatio
+- [CustomBlockData](https://github.com/mfnalex/CustomBlockData) - Provides a PersistentDataContainer for every Block location.
 - [MorePersistentDataTypes](https://github.com/mfnalex/MorePersistentDataTypes) - Adds a ton of new PersistentDataTypes, including support for all collections, maps and arrays to the Bukkit API!
 
 ## Utilities
