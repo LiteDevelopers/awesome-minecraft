@@ -203,6 +203,9 @@ _Plugins for managing and generating world regions._
 - [Worlds](https://github.com/TheNextLvl-net/Worlds) - A world management system for modern paper servers, supporting only the latest features and mechanics.
 
 # Resources
+## Wikis
+_Wikis related to Minecraft._
+- [MinecraftSearch](https://minecraftsearch.com/) – MinecraftSearch is a Minecraft Wiki with better user navigation that focuses on crafting, enchanting, villager trades, loot tables and a lot more.
 
 ## Blogs
 _Blogs related to Minecraft._
