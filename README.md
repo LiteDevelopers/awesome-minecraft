@@ -35,6 +35,7 @@ Feel free to suggest more projects. Only suggest projects you'd recommend to a f
 - [Resources](#resources)
   - [Performance](#performance)
 - [Software](#software)
+  - [Developer Tooling](#developer-tooling)
   - [Tools](#tools)
   - [Proxy Software](#proxy-software)
   - [Server Software](#server-software)
@@ -231,6 +232,11 @@ _Resources for Minecraft performance tuning._
 - [wiki.vg_(minecraft.wiki)](https://minecraft.wiki/w/Minecraft_Wiki:Projects/wiki.vg_merge/Main_Page) - Wiki.vg has documented the whole minecraft protocol for java and bedrock edition. _(moved to minecraft.wiki)_
 
 # Software
+
+## Developer Tooling
+_Tools for developing Minecraft plugins and mods._
+
+- [pluggy](https://github.com/pluggy-sh/pluggy) - A standalone CLI for scaffolding, building, and running Minecraft plugin projects across Spigot, Paper, and other server platforms.
 
 ## Proxy Software
 _Minecraft server proxy software._
