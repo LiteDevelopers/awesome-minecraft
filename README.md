@@ -264,3 +264,4 @@ _Miscellaneous tools._
 - [MultiMC](https://multimc.org/) - MultiMC is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
 - [PrismLauncher](https://prismlauncher.org/) - A community fork of MultiMC that includes additional features and quality of life improvements.
 - [pakkit](https://github.com/Heath123/pakkit) - A packet monitor for Minecraft written in Electron.
+- [Verity Mod Checker](https://veritymodchecker.online/) ([source](https://github.com/ChannelerH/verity-mod-checker)) - An open-source browser-only source, edition, and checksum checker for Verity Java and Bedrock project routes.
