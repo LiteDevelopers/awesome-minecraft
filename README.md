@@ -52,6 +52,7 @@ _Libraries that aid in the creation of Minecraft commands._
 - [CommandAPI](https://github.com/JorelAli/CommandAPI) - A Bukkit-only API for the command UI introduced in Minecraft 1.13.
 - [Commodore](https://github.com/lucko/commodore) - Utility for using Minecraft's 1.13 'brigadier' library in Bukkit plugins.
 - [LiteCommands](https://github.com/Rollczi/LiteCommands) - Annotation based Command framework for Velocity, Bukkit, Paper, BungeeCord and your other implementations.
+- [CocoaBeans](https://github.com/PoweredByApartium/cocoa-beans) - Annotation based Java Command framework for Bukkit, Paper and your other implementations.
 
 ## Configuration
 _Libraries that make it easier to work with configuration files._
@@ -109,6 +110,7 @@ _Utilities that don't particularly belong in any other category._
 - [scoreboard-library](https://github.com/MegavexNetwork/scoreboard-library) - Powerful packet-level scoreboard library for Paper/Spigot servers.
 - [SquirrelID](https://github.com/EngineHub/SquirrelID/) - Library for working with Mojang profiles
 - [Vault](https://github.com/MilkBowl/Vault) - Vault of common APIs for Bukkit Plugins.
+- [CocoaBeans] - Powerful Utilities for Minecraft including packet-level scoreboard library & state system & Command framework 
 
 # Mods
 
