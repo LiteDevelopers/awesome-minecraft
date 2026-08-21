@@ -263,4 +263,5 @@ _Miscellaneous tools._
 - [Blockbench](https://github.com/JannisX11/blockbench) - Blockbench is a free, modern model editor for boxy models and pixel art textures.
 - [MultiMC](https://multimc.org/) - MultiMC is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
 - [PrismLauncher](https://prismlauncher.org/) - A community fork of MultiMC that includes additional features and quality of life improvements.
+- [ServerBuddy](https://serverbuddy.net/) - A free Java and Bedrock server directory with live status, player-count history, uptime, MOTD, and version history.
 - [pakkit](https://github.com/Heath123/pakkit) - A packet monitor for Minecraft written in Electron.
