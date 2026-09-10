@@ -160,9 +160,9 @@ _Plugins that don't particularly fit in with any existing category._
 - [DataSync](https://github.com/AnvilPowered/DataSync) - A minecraft plugin to synchronize and backup player data to a database
 - [NuVotifier](https://github.com/nuvotifier/NuVotifier) - A fork of Votifier, with more robust code and vote forwarding.
 - [OnTime](https://github.com/AnvilPowered/OnTime) - A cross-platform player time management plugin.
+- [OPanel](https://github.com/opanel-mc/opanel) - A Minecraft server management panel for Paper / Folia / Leaves / Fabric / Forge / NeoForge servers.
 - [Plan](https://github.com/plan-player-analytics/Plan) - Player Analytics plugin for Minecraft Server platforms.
 - [spark](https://github.com/lucko/spark) - A performance profiling plugin based on sk89q's WarmRoast profiler.
-- [OPanel](https://github.com/opanel-mc/opanel) - A Minecraft server management panel for Paper / Folia / Leaves / Fabric / Forge / NeoForge servers.
 
 ### Bukkit
 
