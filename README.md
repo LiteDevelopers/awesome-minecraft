@@ -264,3 +264,4 @@ _Miscellaneous tools._
 - [MultiMC](https://multimc.org/) - MultiMC is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
 - [PrismLauncher](https://prismlauncher.org/) - A community fork of MultiMC that includes additional features and quality of life improvements.
 - [pakkit](https://github.com/Heath123/pakkit) - A packet monitor for Minecraft written in Electron.
+- [Solar JAR Scanner](https://jarscan.jdries.nl) - Free, client-side scanner for the "Solar" JAR-injection campaign documented hitting Minecraft server networks Feb-Aug 2026; checks plugin/server JARs entirely in-browser, nothing uploaded.
