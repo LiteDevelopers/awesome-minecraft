@@ -257,6 +257,7 @@ _Minecraft server software._
 - [Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
 - [Cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft.
 - [Purpur](https://purpurmc.org/) - A replacement for Paper with more configurability.
+- [PaperMC Docker Images](https://github.com/schnellert/papermc-docker-images) - Lightweight, multi-arch Docker images for PaperMC Paper, Folia and Velocity, built automatically from official releases.
 
 ## Tools
 _Miscellaneous tools._
