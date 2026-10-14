@@ -115,6 +115,7 @@ _Utilities that don't particularly belong in any other category._
 ## Other Mods
 _Other mods._
 
+- [Knee-Deep in the Mines](https://github.com/pragyaangaur/Knee-Deep-In-The-Mines) - A Fabric mod that reads Doom's WAD and rebuilds its levels, monsters, weapons and sounds inside Minecraft.
 - [ReplayMod](https://github.com/ReplayMod/ReplayMod) - A Minecraft mod to record game sessions and replay them afterwards from any perspective.
 
 ## Platforms
