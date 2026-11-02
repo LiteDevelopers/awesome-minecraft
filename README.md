@@ -266,3 +266,4 @@ _Miscellaneous tools._
 - [PrismLauncher](https://prismlauncher.org/) - A community fork of MultiMC that includes additional features and quality of life improvements.
 - [pakkit](https://github.com/Heath123/pakkit) - A packet monitor for Minecraft written in Electron.
 - [Solar JAR Scanner](https://jarscan.jdries.nl) - Free, client-side scanner for the "Solar" JAR-injection campaign documented hitting Minecraft server networks Feb-Aug 2026; checks plugin/server JARs entirely in-browser, nothing uploaded.
+- [Spawnpoint](https://github.com/vayungodara/spawnpoint) - A self-hosted panel for modded Fabric, Forge and NeoForge servers that tests mod changes on a copy of the server before they go live (alpha).
