@@ -184,6 +184,7 @@ _Plugins that don't particularly fit in with any existing category._
 - [FastMOTD](https://github.com/Elytrium/FastMOTD) - A MOTD plugin for Velocity that caches network packets.
 - [LimboFilter](https://github.com/Elytrium/LimboFilter) - Most powerful bot filtering solution for Minecraft proxies.
 - [Catalyst](https://github.com/AnvilPowered/Catalyst) - An essentials plugin for Minecraft proxies that will provide your server with a strong baseline; giving you all the useful commands you need.
+- [Kordon](https://github.com/KordonLabs/mc-kordon-plugin) - Open-source AntiVPN and anti-bot plugin for Velocity and BungeeCord that blocks VPNs, proxies and bot waves at login (needs a free Kordon account).
 
 ## Permissions
 _Plugins for user permission management._
