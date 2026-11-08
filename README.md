@@ -237,6 +237,7 @@ _Resources for Minecraft performance tuning._
 ## Developer Tooling
 _Tools for developing Minecraft plugins and mods._
 
+- [Minecraft Sound Browser](https://github.com/DverkaSK/minecraft-sound-browser) - An IntelliJ IDEA plugin to search and preview every vanilla Minecraft sound, with play buttons next to sound references in your code.
 - [pluggy](https://github.com/pluggy-sh/pluggy) - A standalone CLI for scaffolding, building, and running Minecraft plugin projects across Spigot, Paper, and other server platforms.
 
 ## Proxy Software
