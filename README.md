@@ -257,6 +257,7 @@ _Minecraft server software._
 - [Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
 - [Cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft.
 - [Purpur](https://purpurmc.org/) - A replacement for Paper with more configurability.
+- [Falcon](https://github.com/Falcon-MC/Falcon) - Server software for Minecraft: Bedrock Edition written from scratch in C++17, aiming for vanilla parity.
 
 ## Tools
 _Miscellaneous tools._
