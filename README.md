@@ -266,3 +266,4 @@ _Miscellaneous tools._
 - [PrismLauncher](https://prismlauncher.org/) - A community fork of MultiMC that includes additional features and quality of life improvements.
 - [pakkit](https://github.com/Heath123/pakkit) - A packet monitor for Minecraft written in Electron.
 - [Solar JAR Scanner](https://jarscan.jdries.nl) - Free, client-side scanner for the "Solar" JAR-injection campaign documented hitting Minecraft server networks Feb-Aug 2026; checks plugin/server JARs entirely in-browser, nothing uploaded.
+- [minecraft-server-tools](https://github.com/Himtome1/minecraft-server-tools) - MIT, dependency-free JavaScript RAM calculator for modpack servers, MOTD generator (§ and MiniMessage) and Server List Ping status checker with an SSRF guard. Hosted: [RAM calculator](https://packyard.ca/tools/minecraft-server-ram-calculator), [MOTD generator](https://packyard.ca/tools/minecraft-motd-generator), [status checker](https://packyard.ca/tools/minecraft-server-status).
