@@ -238,6 +238,7 @@ _Resources for Minecraft performance tuning._
 _Tools for developing Minecraft plugins and mods._
 
 - [pluggy](https://github.com/pluggy-sh/pluggy) - A standalone CLI for scaffolding, building, and running Minecraft plugin projects across Spigot, Paper, and other server platforms.
+- [Permistry](https://github.com/kitebyte-studio/permistry) - Browser checker for Paper and Spigot plugin.yml files. Finds mistakes that stop a plugin from loading or crash the server and explains each one in plain words; runs client-side.
 
 ## Proxy Software
 _Minecraft server proxy software._
