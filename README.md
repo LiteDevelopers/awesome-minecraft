@@ -255,6 +255,7 @@ _Minecraft server software._
 - [Sponge](https://github.com/SpongePowered/Sponge) - A community-driven open source Minecraft: Java Edition modding platform.
 - [MultiPaper](https://github.com/MultiPaper/MultiPaper) - Multi-server, single-world papermc implementation.
 - [Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
+- [MultiForge](https://github.com/0xnullsect0r/MultiForge) - Fork of NeoForge which ticks world regions in parallel and runs most NeoForge mods unchanged.
 - [Cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft.
 - [Purpur](https://purpurmc.org/) - A replacement for Paper with more configurability.
 
